@@ -5,8 +5,10 @@ This is a course project for the Honors Program’s electronic design course; I 
 
 **Design:** We used a feedback system via PID and Kalman Filter to detect interference and correctthe motion; it reduces the readjustment latency by5×over the open-loop implementation.
 
+**Microcontroller**： STM 32.
+
 **Sensor:** MPU 6050.
 
 **Actuator:** Brushless Motor.
 
-**microcontroller**： STM 32.
+
